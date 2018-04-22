@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">HomeAwayLV</string>
+    <string name="app_label">HomeAway - coding test</string>
+
+    <string name="collapsing_toolbar_title">Venue map</string>
+
+    <string name="hello">hello</string>
+
+    <!-- From SeatGeek app registration client_id and app_secret allow the app to make api web server calls -->
+    <string name="endpoint">https://api.foursquare.com/v2/</string>
+    <string name="client_id">DTDO02RZUUJ2ERXHAWYE3VMQPPJJZ5TMU2RECZVVD02CX2VP</string>
+    <string name="app_secret">B5R5CR1NT2TXFJAT4FGTSGQLL3DE431MT4S1ORNE0VWQKINW</string>
+    <string name="api_version">20180418</string>
+
+    <string name="nearCityState">Seattle, WA</string>
+
+    <string name="like">Like!</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="view_in_maps">View detail in Maps</string>
+
+    <!-- from MAPS - data for SEATTLE -->
+    <string name="dog_map_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAU9ay9_OLpVMueUJOajjFoejFf53IQ3w4</string>
+
+    <string name="title_activity_map">Map it!</string>
+
+    <!-- seattle -->
+    <string name="center_marker_title">Seattle, WA</string>
+    <item name="center_latitude" type="dimen" format="float">47.6062</item>
+    <item name="center_longitude" type="dimen" format="float">-122.3321</item>
+    <item name="bearing" type="dimen" format="float">0.0</item>
+    <item name="tilt" type="dimen" format="float">0.0</item>
+    <item name="zoom_level" type="dimen" format="float">10.0</item>
+
+    <string name="google_static_map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyClclvL7RLLtM2iMSY3FqwVm7RwK4t_jqM</string>
+    <string name="static_map_url" templateMergeStrategy="preserve" translatable="false">https://maps.googleapis.com/maps/api/staticmap</string>
+    <string name="map_size">600x300</string>
+    <string name="map_type">roadmap</string>
+</resources>
