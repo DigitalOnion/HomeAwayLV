@@ -15,10 +15,10 @@ This is my submission for HomeAway coding test. Some highlights on the solution 
 * Parceables - to pass the List of Venues to maps
 
 ## GitHub
-The project is in GitHub under `https://github.com/DigitalOnion/HomeAwayLV.git`
+The project is in GitHub under `https://github.com/DigitalOnion/HomeAwayLV.git` you can clone it with:
 
 ```
-https://github.com/DigitalOnion/HomeAwayLV.git
+git clone origin https://github.com/DigitalOnion/HomeAwayLV.git
 ```
 
 You need to clone it to your computer. Open it in Android Studio, build it and execute it. I tested on Emulator and on a real Android device.
